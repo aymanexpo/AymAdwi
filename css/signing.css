@@ -1,0 +1,17 @@
+body{
+	color: #66CDAA;
+	background-image: url(C:\xampp\htdocs\AymAdwi\images\maxresdefault.Jpeg);
+	font-family: 'Roboto', sans-serif;
+	background-size: cover;
+}
+.form-control{
+	min-height: 41px;
+	box-shadow: none;
+	border-color: #808080;
+}
+.form-control:focus{
+	border-color: #B0C4DE;
+}
+.form-control, .btn{
+	border-radius: 3px;
+}
