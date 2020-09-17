@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="css/sgning.css">
+	<link rel="stylesheet" type="text/css" href="css/signing.css">
 </head>
 <body>
 	<div class="signin-form">
@@ -32,7 +32,7 @@
 			</div>
 			<!-- <?php /*include("signin_user.php");*/ ?> -->
 		</form>
-		<div class="text-center small" style="color: #674288;">Ma3ndekch compte ? compte.ma <a href="signup.php">gha dahkin dkhel t9eyed</a></div>
+		<div class="text-center small" style="color: #FFF8DC;">Ma3ndekch compte ? compte.ma <a href="signup.php">gha dahkin dkhel t9eyed</a></div>
 	</div>
 </body>
 </html>
