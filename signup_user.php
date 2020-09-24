@@ -22,5 +22,11 @@
 			echo "<script>window.open('signup.php','_self')</script>";
 			exit();
 		}
+		if($rand==1){
+			$profile_pic = "images/back.png";
+		}
+		else if ($rand == 2) {
+			$profile_pic = "images/back.png";
+		}
 	}
  ?>
